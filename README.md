@@ -1,3 +1,4 @@
+
 # Crack SQL Interview in 50 Questions by LeetCode
 
 > SQL interview preparation with 50 essential questions covering basic to intermediate topics. Designed for 1 month of preparation by LeetCode.
@@ -172,10 +173,3 @@ _Complete these challenges alongside the main curriculum for comprehensive pract
   <b>Created and maintained with 💖 by <a href="https://github.com/cyphericarus/" target="_blank" rel="noopener noreferrer">Cypher Icarus</a>.</b><br>
  If this repository helped you prepare for your SQL interviews ⭐ please give it a star!
 </div>
-
-
-
-
-
-
-
